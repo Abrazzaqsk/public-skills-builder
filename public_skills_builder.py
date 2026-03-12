@@ -14,6 +14,7 @@ Usage:
                                    [--vuln-type TYPE] [--limit N] [--out DIR]
 """
 
+import utils.session
 import os
 import re
 import sys
